@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/ikramej/ikramej/main/banner.svg" width="100%" alt="Header Banner" />
 </div>
 
