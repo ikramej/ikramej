@@ -1,10 +1,10 @@
 ﻿<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,18&height=220&section=header&text=Hi%20there,%20I'm%20Ikram%20👋&fontSize=40&fontAlignY=38&desc=Double%20Degree%20in%20Mathematics%20%26%20Software%20Engineering&descSize=19&descAlignY=62" width="100%" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/ikramej/ikramej/main/banner.svg" width="100%" alt="Header Banner" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Mathematics+%26+Software+Engineering+Student+📐💻;Full-Stack+Developer+%26+Problem+Solver+🚀;Passionate+about+Algorithms+%26+Clean+Architecture+✨;Bridging+Theory+%26+Scalable+Software+🧠" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Mathematics+%26+Software+Engineering+Student;Full-Stack+Developer+%26+Problem+Solver;Passionate+about+Algorithms+%26+Clean+Architecture;Bridging+Theory+%26+Scalable+Software" alt="Typing SVG" />
   </a>
 </div>
 
